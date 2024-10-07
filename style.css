@@ -1,0 +1,10 @@
+.gap{
+    height: 75px;
+}
+.cardcard {
+    min-height: 30vw;
+}
+html {
+    scroll-behavior: smooth;
+  }
+  
